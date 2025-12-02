@@ -33,12 +33,12 @@ Prerequisites:
 - Python 3.8+
 - pip package manage
 Install Dependencies:
-pip install pandas scikit-learn numpy matplotlib seaborn
+-pip install pandas scikit-learn numpy matplotlib seaborn
 Clone the repository:
-Clone repository git clone https://github.com/Araiba-Suahil/Heart_Disease_Prediction_Model.py
-Navigate to directory cd Heart_Disease_Prediction_Model.py
+-Clone repository git clone https://github.com/Araiba-Suahil/Heart_Disease_Prediction_Model.py.
+-Navigate to directory cd Heart_Disease_Prediction_Model.py
 Run the Model:
-python Heart_Disease_Prediction_Model.py
+-python Heart_Disease_Prediction_Model.py
 Implementation
 Data Preprocessing:
 1. Data Loading: Automatically fetches data from UCI repository
